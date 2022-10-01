@@ -12,8 +12,8 @@ summarylength = 25
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
-    url     = "about"
+    name    = "Token"
+    url     = "token"
     weight  = 2
   [[menu.nav]]
     name    = "Portfolio"
@@ -30,11 +30,11 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
-  dateFormat = "26 FEB 1994"
+  logo = "images/catsiamclub-logo.png"
+  dateFormat = "26 FEB 2022"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Cats Siam Club"
+  author = "Dollar Cat"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
