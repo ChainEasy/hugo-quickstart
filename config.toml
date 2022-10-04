@@ -30,6 +30,10 @@ summarylength = 25
   [[menu.nav]]
     name    = "Buy CATS"
     url     = "buycats"
+    weight  = 7
+  [[menu.nav]]
+    name    = "Service"
+    url     = "service"
     weight  = 6
 
 # Site Params
@@ -73,15 +77,20 @@ summarylength = 25
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "We’re a Crypto CATS Community Project That Believes In Great Ideas"
     tagline               = "WE LOVE CRYPTO, WE LOVE CATS"
-    primary_button        = "See Our Crypto CATS"
+    primary_button        = "Crypto CATS"
     primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    secondary_button      = "CATS Token"
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
     title     = "Crypto CATS"
     subtitle  = "Crafting NFT's and seeking to make the complex clear & beautiful."
+
+  [params.service]
+    enable    = true
+    title     = "Service"
+    subtitle  = "This is Service."
 
   [params.call_to_action]
     enable              = true

@@ -1,5 +1,5 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
+title   : "Check Out These Cats"
 subtitle: "What clients says about our services."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
