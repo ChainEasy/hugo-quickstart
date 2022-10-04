@@ -1,8 +1,8 @@
 ---
 title: "About Us"
 date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+heading : "We Are CatSiam. A Community Club for Cats and Crypto."
+description : "CatSiam Club is building fun, web 3 projects with utility. The internet is changing and we want to be involved."
 expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+expertise_sectors: ["Blockchain Development", "Smart Contracts", "Non-Fungible Tokens", "Digital Asset Marketplace", "Metaverse Integration", "On-Chain Gaming", "Play to Earn", "Learn and Earn", "DeFi Staking", "Yield Farming"]
 ---

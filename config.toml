@@ -1,6 +1,6 @@
 baseURL       = "https://catsiam.club/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "CatSiam Club | Crypto CATS"
 theme         = "catsiam"
 summarylength = 25
 
@@ -34,7 +34,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/catsiamclub-logo-2.png"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "CatSiam Club | Crypto"
