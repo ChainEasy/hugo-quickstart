@@ -28,7 +28,7 @@ summarylength = 25
     url     = "blog"
     weight  = 5
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Buy CATS"
     url     = "contact"
     weight  = 6
 
