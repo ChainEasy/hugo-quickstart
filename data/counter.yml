@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Tokenomics"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Total Supply"
+    number: "420 B"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Community"
+    number: "60%"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Treasury"
+    number: "25%"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Liquidity"
+    number: "15%"
