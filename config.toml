@@ -1,7 +1,7 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://catsiam.club/"
 languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
-theme         = "roxo-hugo"
+theme         = "catsiam"
 summarylength = 25
 
 # Site Menus

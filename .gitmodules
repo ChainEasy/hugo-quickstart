@@ -1,0 +1,3 @@
+[submodule "themes/catsiam"]
+	path = themes/catsiam
+	url = https://github.com/ChainEasy/catsiam.git
