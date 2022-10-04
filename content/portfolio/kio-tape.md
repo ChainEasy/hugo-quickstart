@@ -1,10 +1,10 @@
 ---
-title: "KIO TAPE"
+title: "KIO CAT"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/cat-2.jpg"
 category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/cat-2.jpg", "images/projects/cat-1.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

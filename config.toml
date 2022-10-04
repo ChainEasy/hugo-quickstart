@@ -20,7 +20,7 @@ summarylength = 25
     url     = "token"
     weight  = 3
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "NFTs"
     url     = "portfolio"
     weight  = 4
   [[menu.nav]]
@@ -29,7 +29,7 @@ summarylength = 25
     weight  = 5
   [[menu.nav]]
     name    = "Buy CATS"
-    url     = "contact"
+    url     = "buycats"
     weight  = 6
 
 # Site Params
@@ -63,7 +63,7 @@ summarylength = 25
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "Buy CATS"
     url     = "contact"
   
 
@@ -71,42 +71,41 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    heading               = "We’re a Crypto CATS Community Project That Believes In Great Ideas"
+    tagline               = "WE LOVE CRYPTO, WE LOVE CATS"
+    primary_button        = "See Our Crypto CATS"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "Crypto CATS"
+    subtitle  = "Crafting NFT's and seeking to make the complex clear & beautiful."
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    title               = "Join Our Community"
+    primary_button      = "Buy CATS"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Mint NFT"
     secondary_button_url = "portfolio"
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = "Over by the cool cats"
+      
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "NFTs"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"
@@ -131,5 +130,5 @@ summarylength = 25
           url  = "#"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
+        title       = "CatSiam Club:"
         description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
